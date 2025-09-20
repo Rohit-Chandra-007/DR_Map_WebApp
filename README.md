@@ -103,7 +103,7 @@ assets/
 ## Screenshots
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light preview](flutter_01.png) | ![Dark preview](flutter_01.png) |
+| ![Light preview](flutter_03.png) | ![Dark preview](flutter_01.png) |
 
 Additional captures from local runs:
 
